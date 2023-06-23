@@ -1,0 +1,10 @@
+{
+  "type": 1,
+  "name": "Clean Icons",
+  "author": "Twitchiger",
+  "repository": "https://github.com/devTwitchiger/MacroDeckCleanIcons/actions/new",
+  "packageId": "Twitchiger.CleanIcons",
+  "version": "1.0.0",
+  "target-plugin-api-version": 36,
+  "dll": ""
+}
